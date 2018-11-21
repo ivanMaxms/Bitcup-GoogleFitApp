@@ -1,1 +1,4 @@
-### Требования: ([Открыть](https://github.com/vanosss/AudioscrobblerLastFm/blob/master/Documents/Requirements/Requirements%20Document.md))
+https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/1.jpg
+https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/2.jpg
+https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/3.jpg
+https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/4.jpg
