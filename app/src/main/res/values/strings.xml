@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BitCup Fitness App</string>
+    <string name="title_home">Guidance</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Profile</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="today">Today steps</string>
+    <string name="average">Average steps</string>
+    <string name="left_to_go">Your aim for today</string>
+</resources>
