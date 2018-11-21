@@ -1,4 +1,4 @@
-При запуске приложения (по умолчанию, установлена цель в 100 шагов на день): 
+При запуске приложения (по умолчанию, установлена цель в 100 шагов на день и пройдено 2): 
 
 ![image 1](https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/4.jpg)
 ![image 2](https://github.com/vanosss/Bitcup-GoogleFitApp/blob/master/images/3.jpg)
